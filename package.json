@@ -1,0 +1,19 @@
+{
+  "name": "myprojectreact",
+  "version": "1.0.0",
+  "description": "This is my first Project by Radheshyam",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/radheshamgupta2001/MyProject.git)"
+  },
+  "keywords": [],
+  "author": "Radheshyam Gupta",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
