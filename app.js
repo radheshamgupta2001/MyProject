@@ -3,8 +3,8 @@ import ReactDOM from "react-dom/client";
 
 const parent =React.createElement("div", {id:"parent"},[
      React.createElement("div", {id:"child"},[
-        React.createElement("h1",{},"I'm an h1 tag"),
-        React.createElement("h2",{},"I'm an h1 tag"),
+        React.createElement("h1",{},"This is My first app"),
+        React.createElement("h2",{},"Create by Radhe"),
 ]),
 React.createElement("div", {id:"child2"},[
     React.createElement("h1",{},"I'm an h1 tag"),
